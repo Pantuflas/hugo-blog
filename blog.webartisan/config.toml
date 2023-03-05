@@ -1,4 +1,4 @@
-baseURL = 'http://gohugo.io/'
+baseURL = 'https://pantuflas.github.io'
 languageCode = 'en-us'
 theme = "hugo-theme-nightfall"
 

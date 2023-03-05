@@ -2,18 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>/</link>
+    <link>https://pantuflas.github.io/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 29 Sep 2019 21:23:39 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blog oficial de WEBartisan</title>
-      <link>/posts/2019/09/27/blog-oficial-webartisan/</link>
-      <pubDate>Sun, 29 Sep 2019 21:23:39 -0500</pubDate>
-      
-      <guid>/posts/2019/09/27/blog-oficial-webartisan/</guid>
-      <description>Estas son las instrucciones para crear un blog como este:</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://pantuflas.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
